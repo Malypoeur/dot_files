@@ -1,2 +1,1 @@
-dot_files
-=========
+My dot files, inpsired by Mathias Bynens' dotfiles (https://github.com/mathiasbynens/dotfiles)
